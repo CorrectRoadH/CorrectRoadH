@@ -1,4 +1,4 @@
-Hello! 🤗
+Hello everyone! 🤗
 
 I am a 
 - frontend developer 🧑‍💻
