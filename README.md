@@ -2,4 +2,4 @@ Hello everyone! 🤗
 
 I am a 
 - frontend developer 🧑‍💻
-- @memos team member ✍️
+- [@memos](https://github.com/usememos/memos) team member ✍️
