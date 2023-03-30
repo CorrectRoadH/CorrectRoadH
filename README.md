@@ -1,4 +1,5 @@
-Hello!
+Hello! 🤗
+
 I am a 
-- frontend developer
-- @memos team member
+- frontend developer 🧑‍💻
+- @memos team member ✍️
