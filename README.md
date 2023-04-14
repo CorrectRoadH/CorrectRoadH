@@ -1,5 +1,5 @@
 Hello everyone! 🤗
 
 I am a 
-- frontend developer 🧑‍💻
+- developer interested in most areas of computer🧑‍💻
 - [@memos](https://github.com/usememos/memos) team member ✍️
