@@ -9,8 +9,6 @@ I'm a developer interested in most areas of computer science 🧑‍💻 — bui
 - 🧩 Long-time contributor to the Obsidian & Logseq ecosystem
 - 🌐 Blog: [correctroadh.github.io](https://correctroadh.github.io)
 
-> ℹ️ `~~Opentoggl~~` has been renamed to **[OpenTickly](https://github.com/CorrectRoadH/OpenTickly)**.
-
 ---
 
 ## 🚀 Featured Projects
