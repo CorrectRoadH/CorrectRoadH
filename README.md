@@ -41,7 +41,7 @@ I'm a developer interested in most areas of computer science 🧑‍💻 — bui
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CorrectRoadH&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CorrectRoadH&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CorrectRoadH&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CorrectRoadH&layout=compact&hide_border=true)
 
 </div>
